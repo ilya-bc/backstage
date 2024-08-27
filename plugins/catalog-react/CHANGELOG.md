@@ -1,5 +1,14 @@
 # @backstage/plugin-catalog-react
 
+## 1.12.4-next.1
+
+### Patch Changes
+
+- ae9b6cb: Small internal fix to better work with recent `lodash` versions
+- Updated dependencies
+  - @backstage/integration-react@1.1.30
+  - @backstage/core-compat-api@0.2.9-next.0
+
 ## 1.12.4-next.0
 
 ### Patch Changes
