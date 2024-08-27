@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-plugin-search-backend-module-faq-collator
+  title: backstage-plugin-search-backend-module-faq-collator
+  description: The faq-collator backend module for the search plugin.
+spec:
+  lifecycle: experimental
+  type: backstage-backend-plugin-module
+  owner: search-maintainers
